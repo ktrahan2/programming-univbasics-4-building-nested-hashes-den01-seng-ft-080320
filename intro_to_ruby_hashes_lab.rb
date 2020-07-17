@@ -1,6 +1,6 @@
 def base_hash
   newhash = {:railroads => {}}
-  return!
+  return newhash
 end
 
 def monopoly_with_second_tier
